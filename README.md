@@ -3,7 +3,7 @@
 ## 📋 Project Overview
 A production-ready RESTful API built with **Express.js** and **MongoDB** that demonstrates enterprise-level database operations, advanced query patterns, and real-world use cases. This project showcases proficiency in backend development, database design, and cloud deployment.
 
-## 💼 Key Highlights for Recruiters
+## 💼 Key Highlights
 - ✅ **Full CRUD Operations**: Complete Create, Read, Update, Delete implementations with error handling
 - ✅ **Advanced MongoDB Queries**: Demonstrates expertise with query operators ($gt, $lt, $in, $and, $or, $exists)
 - ✅ **RESTful API Design**: Well-structured endpoints following REST principles
