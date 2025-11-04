@@ -1,7 +1,28 @@
-# MongoDB Basic Practice Task - Complete Implementation
+# MongoDB Practice Task - Full-Stack CRUD API
 
-## 🎯 Objective
-This project demonstrates comprehensive MongoDB operations including CRUD operations, query operators, and a real-world library management system use case.
+## 📋 Project Overview
+A production-ready RESTful API built with **Express.js** and **MongoDB** that demonstrates enterprise-level database operations, advanced query patterns, and real-world use cases. This project showcases proficiency in backend development, database design, and cloud deployment.
+
+## 💼 Key Highlights for Recruiters
+- ✅ **Full CRUD Operations**: Complete Create, Read, Update, Delete implementations with error handling
+- ✅ **Advanced MongoDB Queries**: Demonstrates expertise with query operators ($gt, $lt, $in, $and, $or, $exists)
+- ✅ **RESTful API Design**: Well-structured endpoints following REST principles
+- ✅ **Real-World Use Case**: Functional Library Management System with borrowing/returning logic
+- ✅ **Production Deployment**: Live on Vercel with MongoDB Atlas cloud database
+- ✅ **Clean Code**: Organized, documented, and maintainable codebase
+- ✅ **Modern Stack**: Node.js, Express.js v5, Mongoose ODM, MongoDB Atlas
+- ✅ **DevOps Ready**: Environment variables, .gitignore, deployment configuration
+
+## 🎯 Technical Competencies Demonstrated
+- Backend API Development with Node.js & Express.js
+- MongoDB database design and schema modeling
+- Mongoose ODM for data validation and relationships
+- Complex database queries and aggregations
+- RESTful API architecture and design patterns
+- Cloud database integration (MongoDB Atlas)
+- Serverless deployment (Vercel)
+- Environment configuration and security best practices
+- Git version control and GitHub collaboration
 
 ## 🏗️ Project Structure
 - **Database**: `studentDB` (local) / `library` (production - MongoDB Atlas)
